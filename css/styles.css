@@ -1,0 +1,93 @@
+body {
+  background-image: url('../images/bg-coffee.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1,
+h2,
+a,
+p {
+  color: #000000;
+}
+
+h1 {
+  font-size: 4rem;
+  font-weight: 800;
+  letter-spacing: -2px;
+  padding: 20px 20px 0 20px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 3rem;
+  font-weight: 800;
+  margin: 20px 0 0 0;
+  padding: 0;
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: 300;
+  padding: 10px 0;
+  margin: 0;
+}
+
+hr {
+  background-color: brown;
+  border-color: brown;
+  height: 3px;
+}
+
+img {
+  height: 50px;
+}
+
+p {
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 5px 0;
+}
+
+.container {
+  background: burlywood;
+  margin: 50px auto;
+  width: 900px;
+}
+
+.menu-container {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.img-container {
+  height: 50px;
+}
+
+.menu-item {
+  text-align: left;
+  width: 70%;
+}
+
+.item-price {
+  width: 29%;
+  text-align: right;
+}
+
+.footer-item {
+  display: block;
+  font-size: 1.3rem;
+  padding: 10px 0;
+}
+
+.footer-item-p {
+  font-size: 1.6rem;
+  padding: 10px 0 30px 0;
+}
